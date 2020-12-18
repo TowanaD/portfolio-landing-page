@@ -213,7 +213,7 @@ html,  body {
     left: 0;
     width: 95%;
     height: 80%;
-    background: url(18.jpg) no-repeat 50% 50%;
+    background: url(16.jpg) no-repeat 50% 50%;
     background-size: 100%;
     animation: animatedBackground1 6s cubic-bezier(0.19, 1, 0.22, 1);
     animation-delay: 5s;
@@ -435,7 +435,7 @@ html,  body {
     	opacity: 0.1;
     }
 	.container-right{
-    	background: url(18.jpg) no-repeat;
+    	background: url(17.jpg) no-repeat;
     	background-size: 100%;
     }
     .right-upper, .right-lower{
